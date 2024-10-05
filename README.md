@@ -1,5 +1,5 @@
 # CHC Cyberattack Analysis
-
+For the full report, you can download it via (https://drive.google.com/drive/folders/16cfreNTnQcJjzas8kiYq2skLlE_RFqxy?usp=sharing) 
 ## Overview
 
 In **February 2024**, Change Healthcare, one of the largest processors of U.S. medical claims, was hit by a devastating cyberattack attributed to the **BlackCat/AlphV ransomware group**. Handling 15 billion claims annually and supporting nearly 40% of U.S. healthcare payments, Change Healthcare was forced to halt operations, leading to significant disruptions in patient care and financial stress on hospitals and healthcare providers.
